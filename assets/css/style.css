@@ -15,7 +15,7 @@ body {
     background-size: contain;
     background-position: center 100%;
     position: absolute;
-    bottom: 150px;
+    bottom: 100px;
     left: 0;
     box-shadow: inset 0px -10px 0px 0px rgba(0, 0, 0, 0.2);
     transition: left 0.2s ease;
