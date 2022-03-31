@@ -9,7 +9,6 @@
 
 
 
-
 // setelah kamu membuat class diatas,
 // masukkan kendaraan-kendaraan barumu ke garasi dengan cara berikut
 /* 

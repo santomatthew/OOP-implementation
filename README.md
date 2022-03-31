@@ -72,7 +72,7 @@ Modifikasi file `assets/js/vehicles.js` untuk mengerjakan latihan kamu. Tugas ya
 
 ### 4. Tambahkan daftar vehicles
 Pastikan semua class memiliki static method dengan nama `buy` yang return value nya adalah class itu sendiri yang sudah di instansiasi. Sebetulnya kamu tidak perlu membuat method `buy` di setiap class yang kamu buat, kamu boleh menerapkan konsep polymorphism untuk mempersingkatnya.  
-Pada file `assets/js/vehicles.js` terdapat const yang bernama `vehicles` dengan tipe data array, tambahkan isinya dengan contoh sebagai berikut:
+Pada file `assets/js/vehicles.js` tambahkan isinya dengan contoh sebagai berikut:
 
 ```javascript
 // file: assets/js/vehicles.js
