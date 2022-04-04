@@ -72,6 +72,9 @@ class Truck extends Dealer(Car) {
 class MotorCycle extends Vehicle {
   constructor(props) {
     super(props);
+    if (this.constructor === MotorCycle) {
+      throw new Error("Can't instantiate from abstract class");
+    }
   }
 
   moveBackward() {
